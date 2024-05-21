@@ -2,7 +2,7 @@
 
 This repository contains the code and data associated with the paper:
 
-**"Temporal Attention-enhanced Variational Graph RNN Captures Dynamics of Live Neurons and Behavior"**.
+**"Dynamic Analysis of Live Neurons and Behavior via Temporal Attention-enhanced Variational Graph RNN"**.
 
 ## Abstract
 
